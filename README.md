@@ -11,12 +11,24 @@ Based in Japan &nbsp;·&nbsp; Available for freelance projects &nbsp;·&nbsp; En
 
 ## What I Do
 
-I build spatial analysis workflows for business problems that involve location — trade area sizing, demographic profiling, route analysis, and site selection. My stack is PostgreSQL + PostGIS for the heavy lifting, Python for data pipelines, and QGIS for map output.
+I build clean, reproducible geospatial workflows for business problems that involve location — trade area sizing, demographic profiling, route analysis, and site selection.
 
 **Typical deliverables:**
-- SQL query templates ready to run in your existing PostGIS database
+- Spatial analysis using PostGIS and QGIS — from raw data to actionable output
 - Python pipelines for government open data ingestion (US Census, Japan e-Stat)
+- GIS data processing and format conversion (Shapefile, GeoJSON, CSV)
+- OpenStreetMap data extraction and integration
 - QGIS-compatible map layers with demographic overlays
+
+I value clear scoping up front and always deliver well-structured, reproducible workflows.
+
+---
+
+## Background
+
+Before freelancing, I spent over 20 years in the automotive industry — most recently as a Principal Engineer at Harman International, and previously as an Assistant Project Manager at Aisin AW. During this time I worked hands-on with GIS data in navigation map development projects, using QGIS and PostGIS to inspect, process, and analyze real-world geospatial datasets.
+
+That industry background means I am comfortable handling production-level data, coordinating across teams, and delivering to specification.
 
 ---
 
@@ -51,12 +63,13 @@ Municipality-level spatial analysis toolkit for Japan.
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?logo=openstreetmap&logoColor=white)
 
 ---
 
 ## Availability
 
-- Up to 10 hours / week &nbsp;·&nbsp; Remote &nbsp;·&nbsp; English & Japanese
+- Up to 30 hours / week &nbsp;·&nbsp; Remote &nbsp;·&nbsp; English & Japanese
 - **Upwork:** [View profile & hire](https://www.upwork.com/freelancers/~014a6e817000929a69)
 
 ---
@@ -67,9 +80,13 @@ PostGIS・Python・QGISを使った空間データ分析のフリーランス案
 
 **得意分野：**
 - 商圏分析・人口統計分析（国勢調査・ACSデータ活用）
-- ルート沿い自治体／郡の抽出・集計
+- GISデータの処理・クリーニング・フォーマット変換（Shapefile、GeoJSON等）
+- OpenStreetMapデータの抽出・加工
 - 政府オープンデータの取り込みパイプライン構築（e-Stat・US Census）
 - QGISによるコロプレスマップ出力
+
+**経歴：**
+前職ではHarman International（Principal Engineer）およびアイシン・エィ・ダブリュ（APM）にて車載ナビゲーション地図データの開発に携わり、QGISとPostGISを業務で使用してきました。
 
 **ポートフォリオ：**
 - [🇺🇸 US版（郡レベル空間分析）](https://github.com/TomoImai-GIS/gis-trade-area-analysis-us)
