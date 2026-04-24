@@ -26,7 +26,7 @@ I value clear scoping up front and always deliver well-structured, reproducible 
 
 ## Background
 
-Before freelancing, I spent over 20 years in the automotive industry — most recently as a Principal Engineer at Harman International, and previously as an Assistant Project Manager at Aisin AW. During this time I worked hands-on with GIS data in navigation map development projects, using QGIS and PostGIS to inspect, process, and analyze real-world geospatial datasets.
+Before freelancing, I spent over 20 years as an engineer in the automotive industry. During this time I worked hands-on with GIS data in navigation map development projects, using QGIS and PostGIS to inspect, process, and analyze real-world geospatial datasets.
 
 That industry background means I am comfortable handling production-level data, coordinating across teams, and delivering to specification.
 
@@ -86,7 +86,7 @@ PostGIS・Python・QGISを使った空間データ分析のフリーランス案
 - QGISによるコロプレスマップ出力
 
 **経歴：**
-前職ではHarman International（Principal Engineer）およびアイシン・エィ・ダブリュ（APM）にて車載ナビゲーション地図データの開発に携わり、QGISとPostGISを業務で使用してきました。
+前職では自動車業界にて20年以上エンジニアとして勤務し、車載ナビゲーション地図データの開発に携わりながらQGISとPostGISを業務で使用してきました。
 
 **ポートフォリオ：**
 - [🇺🇸 US版（郡レベル空間分析）](https://github.com/TomoImai-GIS/gis-trade-area-analysis-us)
