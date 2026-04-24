@@ -69,7 +69,7 @@ Municipality-level spatial analysis toolkit for Japan.
 
 ## Availability
 
-- Up to 30 hours / week &nbsp;·&nbsp; Remote &nbsp;·&nbsp; English & Japanese
+- Remote &nbsp;·&nbsp; English & Japanese
 - **Upwork:** [View profile & hire](https://www.upwork.com/freelancers/~014a6e817000929a69)
 
 ---
