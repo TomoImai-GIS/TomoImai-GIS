@@ -1,11 +1,12 @@
 # Tomo Imai — GIS & Spatial Data Engineer
 
+[🇯🇵 日本語プロフィールはこちら](#日本語プロフィール)
+
 > Turning location data into business insight — PostGIS · Python · QGIS
 
 Based in Japan &nbsp;·&nbsp; Available for freelance projects &nbsp;·&nbsp; English & Japanese
 
 [![Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014a6e817000929a69)
-&nbsp;[🇯🇵 日本語プロフィールはこちら](#日本語プロフィール)
 
 ---
 
