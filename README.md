@@ -90,6 +90,7 @@ PostGIS・Python・QGISを使った空間データ分析のフリーランス案
 前職では自動車業界にて長年エンジニアとして勤務し、車載ナビゲーション地図データの開発に携わりながらQGISとPostGISを業務で使用してきました。
 
 **ポートフォリオ：**
+- [分析サンプル・実績まとめ（日本語）](showcase-ja.md) — ユースケース別に画像・SQLサンプル付きで紹介
 - [🇺🇸 US版（郡レベル空間分析）](https://github.com/TomoImai-GIS/gis-trade-area-analysis-us)
 - [🇯🇵 日本版（市区町村レベル空間分析）](https://github.com/TomoImai-GIS/gis-trade-area-analysis)
 
