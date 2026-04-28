@@ -156,7 +156,7 @@ WITH params AS (
 *郡別人口密度（人/sq mi）— 全米48州。マンハッタンから内陸部への密度勾配が明確*
 
 ![米国ルート通過郡 — NY→DC](https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis-us/master/output/sql/02-05_list_counties_along_route_from_gps_log.png)
-*エンパイアステートビル（NYC）→米国議会議事堂（DC）ルートの通過郡（I-95経由）*
+*エンパイアステートビル（NYC）→米国議会議事堂（DC）ルートの通過郡（I-95, MD-295経由）*
 
 ---
 
