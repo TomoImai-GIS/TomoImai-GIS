@@ -92,6 +92,8 @@ WITH params AS (
 ![全国高齢化 — 3次元散布図](https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis/master/output/python/01-05_3d_age_static.png)
 *全国約1,700自治体の年齢3コーホート成長率を3次元プロット*
 
+> 💡 角度を自在に変えて眺めたい方 → [3次元インタラクティブプロットを開く](https://htmlpreview.github.io/?https://github.com/TomoImai-GIS/gis-trade-area-analysis/blob/master/output/python/01-05_3d_age_interactive.html)
+
 ---
 
 **[③ オクタント分類：人口軌跡タイプ別ヒストグラム分析](https://github.com/TomoImai-GIS/gis-trade-area-analysis/blob/master/docs/analysis/01-07_octant_histogram_analysis.md)**
