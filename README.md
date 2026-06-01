@@ -6,8 +6,6 @@
 
 Based in Japan &nbsp;·&nbsp; Available for freelance projects &nbsp;·&nbsp; English & Japanese
 
-[![Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014a6e817000929a69)
-
 ---
 
 ## What I Do
@@ -35,7 +33,7 @@ That industry background means I am comfortable handling production-level data, 
 
 ## Portfolio
 
-### 🇺🇸 GIS Trade Area Analysis — US
+### 🇺🇸 [GIS Trade Area Analysis — US](https://github.com/TomoImai-GIS/gis-trade-area-analysis-us)
 
 County-level spatial analysis toolkit for the United States.
 
@@ -43,17 +41,13 @@ County-level spatial analysis toolkit for the United States.
 - Python pipelines for TIGER/Line boundaries + ACS 5-year estimates + Decennial Census 2020
 - Covers ~3,221 counties nationwide
 
-[![Repo](https://img.shields.io/badge/GitHub-gis--trade--area--analysis--us-181717?logo=github)](https://github.com/TomoImai-GIS/gis-trade-area-analysis-us)
-
-### 🇯🇵 GIS Trade Area Analysis — Japan
+### 🇯🇵 [GIS Trade Area Analysis — Japan](https://github.com/TomoImai-GIS/gis-trade-area-analysis)
 
 Municipality-level spatial analysis toolkit for Japan.
 
 - 15 PostGIS SQL templates: trade area population, delivery zone assignment, route analysis
 - e-Stat census data integration · 1,917 municipalities
 - Python GIS utility library (JIS mesh codes, DMS conversion, Japan Plane Rectangular)
-
-[![Repo](https://img.shields.io/badge/GitHub-gis--trade--area--analysis-181717?logo=github)](https://github.com/TomoImai-GIS/gis-trade-area-analysis)
 
 ---
 
