@@ -59,7 +59,7 @@ Municipality-level spatial analysis toolkit for Japan.
 <table>
 <tr>
   <td width="40%"><a href="https://github.com/TomoImai-GIS/gis-trade-area-analysis"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis/master/output/sql/03-02_population_density_choropleth_wide.png" width="100%"/></a><br><sub>Population density by municipality — nationwide (Japan)</sub></td>
-  <td width="40%"><a href="https://github.com/TomoImai-GIS/gis-trade-area-analysis/blob/master/docs/analysis/01-03_urban_aging_dynamics.md"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis/master/output/python/01-03_scatter_shift.png" width="100%"/></a><br><sub>Urban aging dynamics 2015→2020 — shift vectors by municipality type</sub></td>
+  <td width="35%"><a href="https://github.com/TomoImai-GIS/gis-trade-area-analysis/blob/master/docs/analysis/01-03_urban_aging_dynamics.md"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis/master/output/python/01-03_scatter_shift.png" width="100%"/></a><br><sub>Urban aging dynamics 2015→2020 — shift vectors by municipality type</sub></td>
 </tr>
 </table>
 
