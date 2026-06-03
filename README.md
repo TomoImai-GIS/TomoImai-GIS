@@ -41,6 +41,13 @@ County-level spatial analysis toolkit for the United States.
 - Python pipelines for TIGER/Line boundaries + ACS 5-year estimates + Decennial Census 2020
 - Covers ~3,221 counties nationwide
 
+<table>
+<tr>
+  <td width="40%"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis-us/master/output/sql/03-02_population_density_county_wide.png" width="100%"/><br><sub>Population density by county — contiguous US</sub></td>
+  <td width="40%"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis-us/master/output/sql/02-05_list_counties_along_route_from_gps_log.png" width="100%"/><br><sub>Counties along route — Empire State Bldg → US Capitol (I-95)</sub></td>
+</tr>
+</table>
+
 ### 🇯🇵 [GIS Trade Area Analysis — Japan](https://github.com/TomoImai-GIS/gis-trade-area-analysis)
 
 Municipality-level spatial analysis toolkit for Japan.
