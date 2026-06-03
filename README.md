@@ -43,8 +43,8 @@ County-level spatial analysis toolkit for the United States.
 
 <table>
 <tr>
-  <td width="40%"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis-us/master/output/sql/03-02_population_density_county_wide.png" width="100%"/><br><sub>Population density by county — contiguous US</sub></td>
-  <td width="40%"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis-us/master/output/sql/02-05_list_counties_along_route_from_gps_log.png" width="100%"/><br><sub>Counties along route — Empire State Bldg → US Capitol (I-95)</sub></td>
+  <td width="40%"><a href="https://github.com/TomoImai-GIS/gis-trade-area-analysis-us/blob/master/README.md"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis-us/master/output/sql/03-02_population_density_county_wide.png" width="100%"/></a><br><sub>Population density by county — contiguous US</sub></td>
+  <td width="40%"><a href="https://github.com/TomoImai-GIS/gis-trade-area-analysis-us/blob/master/README.md"><img src="https://raw.githubusercontent.com/TomoImai-GIS/gis-trade-area-analysis-us/master/output/sql/02-05_list_counties_along_route_from_gps_log.png" width="100%"/></a><br><sub>Counties along route — Empire State Bldg → US Capitol (I-95)</sub></td>
 </tr>
 </table>
 
