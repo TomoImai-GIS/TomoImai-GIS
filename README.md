@@ -87,7 +87,7 @@ Municipality-level spatial analysis toolkit for Japan.
 
 PostGIS・Python・QGISを使った空間データ分析のフリーランス案件を承っています。
 
-**得意分野：**
+**対応できる分析・処理：**
 - 商圏分析・人口統計分析（国勢調査・ACSデータ活用）
 - GISデータの処理・クリーニング・フォーマット変換（Shapefile、GeoJSON等）
 - OpenStreetMapデータの抽出・加工
