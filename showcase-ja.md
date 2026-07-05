@@ -2,10 +2,10 @@
 
 > PostGIS × Python × QGIS で「場所」に関わるビジネス課題を解決します
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12%2B-336791?logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-3.0%2B-4CAF50)
-![QGIS](https://img.shields.io/badge/QGIS-3.x-589632?logo=qgis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17%2B-336791?logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-3.6%2B-4CAF50)
+![QGIS](https://img.shields.io/badge/QGIS-3.44%2B-589632?logo=qgis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)
 
 [![CrowdWorks](https://img.shields.io/badge/CrowdWorks-プロフィールを見る-00a0e9)](https://crowdworks.jp/public/employees/6744562)
 [![GitHub](https://img.shields.io/badge/GitHub-TomoImai--GIS-181717?logo=github)](https://github.com/TomoImai-GIS)
